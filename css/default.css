@@ -60,7 +60,7 @@ time, mark, audio, video {
 
 th, td {
 	margin: 0;
-   	padding: 0;	
+   	padding: 0;
 	height: 110px;
 	width: 275px;
 	text-align:center;
@@ -172,7 +172,6 @@ body {
    font-family: 'opensans-regular', sans-serif;
    font-weight: normal;
    font-size: 15px;
-   line-height: 30px;
 	color: #838C95;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
@@ -827,7 +826,3 @@ properly.
 	margin-right: auto !important;
 	text-align: center !important;
 }
-
-
-
-
