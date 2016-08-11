@@ -197,7 +197,7 @@ ul#nav li.current a { color: #5C87FA; }
 #about {
    background: #2B2B2B;
    padding-top: 96px;
-   padding-bottom: 66px;
+   padding-bottom: 10px;
    overflow: hidden;
 }
 
@@ -210,7 +210,7 @@ ul#nav li.current a { color: #5C87FA; }
    margin-bottom: 12px;
 }
 #about p {
-   line-height: 30px;
+   line-height: 25px;
    color: #7A7A7A;
 }
 #about .profile-pic {
@@ -228,7 +228,8 @@ ul#nav li.current a { color: #5C87FA; }
 #about .contact-details { width: 41.66667%; }
 #about .download {
    width: 58.33333%;
-   padding-top: 6px;
+   margin-top: 20px;
+   margin-left: 20px;
 }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
@@ -277,14 +278,12 @@ ul#nav li.current a { color: #5C87FA; }
 
 .education, .work {
    margin-bottom: 48px;
-   padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
    margin-bottom: 18px;
-   margin-top: 9px;
 }
 #resume .info span {
    margin-right: 5px;
@@ -579,12 +578,12 @@ ul#nav li.current a { color: #5C87FA; }
 }
 .popup-modal .description-box p {
 	font: 14px/24px 'opensans-regular', sans-serif;
-   color: #A1A1A1;
+   color: #898989;
    margin-bottom: 12px;
 }
 .popup-modal .description-box .categories {
    font: 11px/21px 'opensans-light', sans-serif;
-   color: #A1A1A1;
+   color: #898989;
    text-transform: uppercase;
    letter-spacing: 2px;
    display: block;
